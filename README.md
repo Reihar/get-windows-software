@@ -75,7 +75,7 @@ Transmission port called Transmission-Qt Win
 ##Video Players
 ###Video Lan Client (VLC)
 * [Project Page](http://videolan.org/vlc)
-
+* [Download Page](http://www.videolan.org/vlc/download-windows.html)
 
 ##Video Editors
 
