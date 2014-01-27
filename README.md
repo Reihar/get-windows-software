@@ -164,7 +164,7 @@ Skype too provides but hides a full installer. They cannot be accessed through t
 * [Download Page](http://www.skype.com/download-skype/)
 * [Download Latest Full Installer (Exe)](http://www.skype.com/go/getskype-full)
 * [Download Latest Full Installer (Msi)](http://www.skype.com/go/getskype-msi)
-* [Community Thread](http://community.skype.com/t5/The-Skype-Lounge/Alternative-Download-Links/m-p/122344/thread-id/9764?skypename=reiharvislan&signature=Ziv586BbLLhJhpXw%2BcUrC6ofJRxl0eRGxxlzxUPBWcJlnuemKEqQBj7Se9nyK5VncJvHLzrJLGMkBQlRmEripTJ9VufNBx7Q3dJw7oHAaFjlVaQDvdB%2F7kZZHBTYB0mfkirW1waI%2B6kyYy5k1v0nQ7Rkwtw7%2FcphP3hyVKG6HtsFiNIBfdRyH%2BuLhyAI6VkYAwEMTi0FagwWc4NYNBIOXhZd70bOgyZTpwhv%2BP41mwbTnGyC2ZXWInlLtlbKU0Ijh7v7w6ikuKXfjzJvxr2cxwgrSpBGTrCvopRcjq4EqlXN5WlyGym7rr5jld%2FElSijaLvf89QPReCPJrCSl5046Q%3D%3D&date=2014-01-27+20%3A16%3A53&expiration_date=2014-01-29+20%3A16%3A53&partner_id=b38bf07d4373f92f5932f9e2887a32e0) (For reference. Skype accound needed.)
+* [Community Thread](http://community.skype.com/t5/The-Skype-Lounge/Alternative-Download-Links/m-p/122344) (For reference. Skype accound needed.)
 
 ##Audio Conference
 
