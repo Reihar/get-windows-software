@@ -5,8 +5,8 @@ Download link repository for common free (as in free beer) windows software.
 
 Why? Because everytime I have to use Windows, installaling sofware is a chore, so I've decided to make a list.
 
-#Web
-##Browsers
+#Internet
+##Web Browsers
 
 ###Firefox
 * [Project Page](https://www.mozilla.org/firefox)
@@ -51,6 +51,12 @@ It is pretty hard to find the full installers for flash player. They are not dir
 ###Thunderbird
 * [Project Page](https://www.mozilla.org/thunderbird)
 * [Download Page](https://www.mozilla.org/en-US/thunderbird/all.html)
+
+##Torrents
+###Transmission
+Transmission port called Transmission-Qt Win
+* [Project Page](http://sourceforge.net/projects/trqtw/)
+* [Downlaod Latest Version](http://sourceforge.net/projects/trqtw/files/latest/download)
 
 #MultiMedia
 ##Audio Players
