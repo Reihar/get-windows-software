@@ -21,6 +21,6 @@ It is pretty hard to find the full installers for flash player. They are not dir
 
 * [Project Site](http://www.adobe.com/products/flashplayer.html)
 * [Adobe help about the full installer](http://helpx.adobe.com/flash-player/kb/installation-problems-flash-player-windows.html#main-pars_header)
-* [All except IE full installer](http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player.exe)
-* [Internet Explorer full installer](http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player_ax.exe)
+* [Full Installer Download Link : All browsers except Internet Explorer](http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player.exe)
+* [Full Installer Download Link : Internet Explorer](http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player_ax.exe)
 * [Download Page](http://get.adobe.com/flashplayer/)
