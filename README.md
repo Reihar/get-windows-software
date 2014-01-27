@@ -105,6 +105,11 @@ Transmission port called Transmission-Qt Win
 * [Download Page](http://www.getpaint.net/download.html)
 * [Mirror 1](http://www.dotpdn.com/downloads/pdn.html)
 
+##Drawing/Painting/etc
+###My Paint
+* [Project Page](http://mypaint.intilinux.com/)
+* [Download Page](http://mypaint.intilinux.com/?page_id=6)
+
 #Games
 ##Stores
 
@@ -256,3 +261,9 @@ Just like Flash, Oracle makes it hard to find full installer for java but they e
 ###Notepad++
 * [Project Page](http://audacity.sourceforge.net/)
 
+##Package Managers
+###Chocolatey
+* [Project Page](http://chocolatey.org/)
+
+###Ninite
+* [Project Page](http://ninite.com/)
