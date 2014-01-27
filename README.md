@@ -256,10 +256,15 @@ Just like Flash, Oracle makes it hard to find full installer for java but they e
 * [Project Page ](http://www.microsoft.com/net/)
 * [Download Page](http://www.microsoft.com/net/downloads)
 
-
 ##Text Editors
 ###Notepad++
 * [Project Page](http://audacity.sourceforge.net/)
+
+##Unix Tools
+###Cygwin
+* [Project Page](http://cygwin.com/)
+* [Download Latest 32bit](http://cygwin.com/setup-x86.exe)
+* [Download Latest 64bit](http://cygwin.com/setup-x86_64.exe)
 
 ##Package Managers
 ###Chocolatey
