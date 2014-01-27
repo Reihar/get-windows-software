@@ -103,8 +103,12 @@ It is pretty hard to find the full installers for flash player. They are not dir
 ##Stores
 
 ###Steam
-[Project Page](http://store.steampowered.com/)
-[Latest Version](http://media.steampowered.com/client/installer/SteamSetup.exe)
+* [Project Page](http://store.steampowered.com/)
+* [Latest Version](http://media.steampowered.com/client/installer/SteamSetup.exe)
+
+###Desura
+* [Project Page](http://www.desura.com/)
+* [Download Latest Version](http://www.desura.com/DesuraInstaller.exe)
 
 #Office
 ##Suites
