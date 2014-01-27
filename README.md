@@ -65,6 +65,10 @@ Transmission port called Transmission-Qt Win
 * [Project Page](http://www.clementine-player.org/)
 * [Download Page](http://www.clementine-player.org/downloads)
 
+###Foobar2000
+* [Project Page](http://www.foobar2000.org/)
+* [Download Page](http://www.foobar2000.org/download)
+
 ###iTunes
 * [Project Page](http://www.apple.com/itunes)
 
