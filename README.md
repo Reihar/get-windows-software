@@ -197,12 +197,30 @@ Be careful while downloading Avast as it appears that the free versions are host
 * [Project Page](http://www.rarlab.com/)
 * [Download Page](http://www.rarlab.com/download.htm)
 
+##Image Mounting
+###WinCDEmu
+* [Project Page](http://wincdemu.sysprogs.org/)
+* [Download Page](http://wincdemu.sysprogs.org/download/)
+
+##CD/DVD/etc Burning
+###CD Burner XP
+* [Project Page](http://cdburnerxp.se/)
+* [Download Latest Version](http://cdburnerxp.se/downloadsetup.exe)
+
 ##Networking
 
 ###Putty
 * [Project Page](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
 * [Download Page](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 * [Putty Installer](http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.63-installer.exe) (Contains everything except PuTTYtel)
+
+###WinSCP
+* [Project Page](http://winscp.net/eng/index.php)
+* [Download Page](http://winscp.net/eng/download.php)
+
+###Filezilla
+* [Project Page](https://filezilla-project.org/)
+* [Download Page](https://filezilla-project.org/download.php?type=client)
 
 ##Cleanup
 ###Ccleaner
