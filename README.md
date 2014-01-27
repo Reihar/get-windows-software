@@ -11,7 +11,6 @@ Why? Because everytime I have to use Windows, installaling sofware is a chore, s
 ###Firefox
 * [Project Site](https://www.mozilla.org/firefox)
 * [Download Page](https://www.mozilla.org/en-US/firefox/all/)
-* [Latest version](https://download.mozilla.org/?product=firefox-26.0&os=win&lang=en-US) (Updated 2014-01-27)
 
 
 ##Browser Plugins
