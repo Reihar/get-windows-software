@@ -186,6 +186,11 @@ Be careful while downloading Avast as it appears that the free versions are host
 * [Project Page](http://www.safer-networking.org/)
 * [Download Page](http://www.safer-networking.org/mirrors16/)
 
+##Disk Encryption
+###Truecrypt
+* [Project Page](http://www.truecrypt.org/)
+* [Download Page](http://www.truecrypt.org/downloads)
+
 #Utilities
 
 ##Archive Management
