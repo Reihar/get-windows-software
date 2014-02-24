@@ -270,7 +270,7 @@ Just like Flash, Oracle makes it hard to find full installer for java but they e
 
 ##Text Editors
 ###Notepad++
-* [Project Page](http://audacity.sourceforge.net/)
+* [Project Page](http://notepad-plus-plus.org/)
 
 ##Unix Tools
 ###Cygwin
