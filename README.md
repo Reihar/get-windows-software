@@ -5,6 +5,8 @@ Download link repository for common free (as in free beer) windows software.
 
 Why? Because everytime I have to use Windows, installaling sofware is a chore, so I've decided to make a list.
 
+By the way, if you want to contribute to the project, feel free to ask or send pull requests.
+
 #Internet
 ##Web Browsers
 
