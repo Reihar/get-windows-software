@@ -229,6 +229,19 @@ Be careful while downloading Avast as it appears that the free versions are host
 * [Project Page](http://cdburnerxp.se/)
 * [Download Latest Version](http://cdburnerxp.se/downloadsetup.exe)
 
+##Bootable USB
+###Rufus
+* [Project Page](http://rufus.akeo.ie/)
+
+###LinuxLive USB Creator
+* [Project Page](http://www.linuxliveusb.com/)
+* [Download Page](http://www.linuxliveusb.com/en/download)
+* [Download Latest Stable Version](http://www.linuxliveusb.com/downloads/?stable)
+ 
+###Unetbootin
+* [Project Page](http://unetbootin.sourceforge.net/)
+* [Download Latest Version](http://unetbootin.sourceforge.net/unetbootin-windows-latest.exe)
+
 ##Networking
 
 ###Putty
