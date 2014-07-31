@@ -20,15 +20,17 @@ By the way, if you want to contribute to the project, feel free to ask or send p
 
 ###Chrome
 * [Project Page](https://www.google.com/chrome/)
-* [Download Page](https://www.google.com/chrome/)
 
 ###Chromium
+
+The download page isn't on the same domain as the project. It is however listed on chromium's website [here](http://www.chromium.org/getting-involved/download-chromium).
+
 * [Project Page](http://www.chromium.org/)
-* [Download Page](http://www.opera.com/download)
+* [Download Page](https://download-chromium.appspot.com/)
 
 ###Internet Explorer
 * [Project Page](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [Download Page](http://windows.microsoft.com/fr-fr/internet-explorer/ie-11-worldwide-languages)
+* [Download Page](http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages)
 
 
 
