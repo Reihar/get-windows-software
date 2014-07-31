@@ -197,6 +197,10 @@ Be careful while downloading Avast as it appears that the free versions are host
 * [Project Page](http://www.avast.com/)
 
 ###AVG Free Antivirus
+
+Be careful while downloading AVG as it appears that the free versions are hosted on websites that display ads with false download buttons.
+
+
 * [Project Page](http://www.avg.com/)
 * [Download Page](http://www.avg.com/eu-en/free-antivirus-download)
 
@@ -213,10 +217,6 @@ Be careful while downloading Avast as it appears that the free versions are host
 * [Project Page](http://www.safer-networking.org/)
 * [Download Page](http://www.safer-networking.org/mirrors16/)
 
-##Disk Encryption
-###Truecrypt
-* [Project Page](http://www.truecrypt.org/)
-* [Download Page](http://www.truecrypt.org/downloads)
 
 #Utilities
 
