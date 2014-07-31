@@ -254,8 +254,11 @@ Be careful while downloading Avast as it appears that the free versions are host
 * [Download Page](http://winscp.net/eng/download.php)
 
 ###Filezilla
+
+Be careful, there seem to be some problems with a sourceforge installer. Make sure you download only the filezilla installer.
+
 * [Project Page](https://filezilla-project.org/)
-* [Download Page](https://filezilla-project.org/download.php?type=client)
+* [Download Page](https://filezilla-project.org/download.php?show_all=1)
 
 ##Cleanup
 ###Ccleaner
