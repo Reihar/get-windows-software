@@ -95,9 +95,13 @@ Transmission port called Transmission-Qt Win
 * [Download Latest Version](http://cccp-project.net/download.php?type=cccp)
 
 ###K-Lite Codec Pack
+
+I added the Mega Pack for convinience. If you don't know which one to get, you probably need the standard pack.
+
 * [Project Page](http://codecguide.com/)
 * [Download Page](http://codecguide.com/download_kl.htm)
 * [Download Standard Version](http://codecguide.com/download_k-lite_codec_pack_standard.htm)
+* [Download Mega Pack](http://codecguide.com/download_k-lite_codec_pack_mega.htm)
 
 ##Image Manipulation
 
@@ -141,7 +145,7 @@ Transmission port called Transmission-Qt Win
 
 ###Sumatra PDF
 * [Project Page](http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html)
-* [Download Page](http://blog.kowalczyk.info/software/sumatrapdf/download-free-pdf-viewer-fr.html)
+* [Download Page](http://blog.kowalczyk.info/software/sumatrapdf/download-free-pdf-viewer.html)
 
 ###PDF Creator
 * [Project Page](http://www.pdfforge.org/)
@@ -156,8 +160,11 @@ Transmission port called Transmission-Qt Win
 ##Chating
 
 ###Pidgin
+
+Make sure you click to download the offline installer instead of clicking on the big and bright sourceforge download icon. The link you are looking for says "offline installer" and the font is smaller.
+
 * [Project Page](http://www.pidgin.im/)
-* [Download Page](http://www.pidgin.im/download/)
+* [Download Page](https://www.pidgin.im/download/windows/)
 
 
 ##Video Conference
