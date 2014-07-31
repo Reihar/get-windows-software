@@ -279,7 +279,6 @@ Be careful, there seem to be some problems with a sourceforge installer. Make su
 ##Ergonomy
 ###Classic Shell
 * [Project Page](http://www.classicshell.net/)
-* [Download Latest Version](http://www.classicshell.net/downloads/latest)
 
 ##Runtimes
 ###Java
