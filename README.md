@@ -7,6 +7,8 @@ Why? Because everytime I have to use Windows, installaling sofware is a chore, s
 
 By the way, if you want to contribute to the project, feel free to ask or send pull requests.
 
+Oh, and don't worry about the license. Thanks to the WTFPL, you can do absolutely what you want with this list.
+
 #Internet
 ##Web Browsers
 
