@@ -59,7 +59,9 @@ It is pretty hard to find the full installers for flash player. They are not dir
 ###Transmission
 Transmission port called Transmission-Qt Win
 * [Project Page](http://sourceforge.net/projects/trqtw/)
-* [Downlaod Latest Version](http://sourceforge.net/projects/trqtw/files/latest/download)
+* [Downlaod Latest 32-bit Version](http://sourceforge.net/projects/trqtw/files/latest/download)
+A perfectly stable 64-bit version exists but you need to get it manually: there is no fast link to the latest version.
+
 
 #MultiMedia
 ##Audio Players
@@ -156,7 +158,7 @@ I added the Mega Pack for convinience. If you don't know which one to get, you p
 * [Download Page](http://get.adobe.com/reader/)
 
 #Communication
-##Chating
+##Instant Messaging 
 
 ###Pidgin
 
@@ -214,7 +216,7 @@ Be careful while downloading AVG as it appears that the free versions are hosted
 ##Antispyware
 ###Spybot Search and Destroy
 * [Project Page](http://www.safer-networking.org/)
-* [Download Page](http://www.safer-networking.org/mirrors16/)
+* [Download Page](http://www.safer-networking.org/mirrors/)
 
 
 #Utilities
@@ -288,7 +290,7 @@ Just like Flash, Oracle makes it hard to find full installer for java but they e
 * [Download Page](https://www.java.com/en/download/manual.jsp)
 
 ###.Net
-
+Note, that it is simpler and more convinient to download it through windows.
 * [Project Page ](http://www.microsoft.com/net/)
 * [Download Page](http://www.microsoft.com/net/downloads)
 
