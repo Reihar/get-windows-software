@@ -43,10 +43,7 @@ The download page isn't on the same domain as the project. It is however listed 
 It is pretty hard to find the full installers for flash player. They are not directly linked on the download page : you need to search through the help to find them or else you will download a downloader (which requires an Internet connection) that will download and install flash.
 
 * [Project Page](http://www.adobe.com/products/flashplayer.html)
-* [Adobe help about the full installer](http://helpx.adobe.com/flash-player/kb/installation-problems-flash-player-windows.html#main-pars_header)
-* [Full Installer Download Link : All browsers except Internet Explorer](http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player.exe)
-* [Full Installer Download Link : Internet Explorer](http://download.macromedia.com/pub/flashplayer/current/support/install_flash_player_ax.exe)
-* [Download Page](http://get.adobe.com/flashplayer/)
+* [Full Installers' Download Page](https://www.adobe.com/products/flashplayer/distribution3.html)
 
 ###Silverlight
 * [Project Page](http://www.microsoft.com/silverlight/)
