@@ -44,6 +44,10 @@ It is pretty hard to find the full installers for flash player. They are not dir
 
 * [Project Page](http://www.adobe.com/products/flashplayer.html)
 * [Full Installers' Download Page](https://www.adobe.com/products/flashplayer/distribution3.html)
+* [Firefox version](http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe)
+* [Webkit based (Chrome, Opera,…) version](http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ppapi.exe)
+* [Internet Explorer Version](http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ax.exe)
+* [Flash Uninstaller](http://download.macromedia.com/get/flashplayer/current/support/uninstall_flash_player.exe)
 
 ###Silverlight
 * [Project Page](http://www.microsoft.com/silverlight/)
